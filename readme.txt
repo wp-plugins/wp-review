@@ -8,7 +8,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Allows you to create reviews for your blog. Choose from stars, percentages or points for review scores. Supports retina display, translation, WPMU and unlimited colour schemes. Works with any theme.
+Create reviews for your blog. Choose from stars, percentages or points for review scores. Supports retina display, translation, WPMU & unlimited colour schemes.
 
 == Description ==
 
@@ -30,10 +30,13 @@ Position it above or below the content with ease and no coding.
 
 = Try it out! =
 See WP Review in action on our demo pages:
+*<a href="http://demo.mythemeshop.com/point/fatebuntur-stoici-haec-omnia-dicta-esse-praeclare/" target="_blank">Star Review Type</a>,
+*<a href="http://demo.mythemeshop.com/point/modo-etiam-paulum-ad-dexteram-de-via-declinavi/" target="_blank">Point Review Type</a>,
+*<a href="http://demo.mythemeshop.com/point/sed-nonne-merninisti-licere-mihi-ista-probare/" target="_blank">Percentage Review Type</a>
 
 If you've used it on your site, we'll happily feature it on MyThemeShop.com!
 
-Why WP Review from <a href="http://mythemeshop.com">MyThemeShop</a>:
+= Why WP Review from <a href="http://mythemeshop.com">MyThemeShop</a>: =
 Other rating plugins don't offer the flexibility, lightweight code, additional support, and customization that WP Review by MyThemeShop offers.
 
 == Installation ==
@@ -47,7 +50,7 @@ This section describes how to install the plugin and get it working.
 
 == Frequently Asked Questions ==
 
-= Reviews are not displaying properly! =
+= User rating not working =
 
 Please disable all plugins and check if rating is working properly. Then you can enable all plugins one by one to find out which plugin is conflicting with WP Rating plugin.
 
