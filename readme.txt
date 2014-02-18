@@ -1,4 +1,4 @@
-=== WP Review ===
+=== WP Review by MyThemeShop ===
 Contributors: mythemeshop
 Creator's website link: http://mythemeshop.com/
 Tags: review, rating, wp rating, user rating, google rating, star rating
@@ -8,11 +8,17 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Create reviews for site. Choose from stars, percentages or points for review scores. Supports retina display, WPMU & unlimited colour schemes.
+Create reviews! Choose from stars, percentages or points for review scores. Supports Retina Display, WPMU & Unlimited Color Schemes.
 
 == Description ==
 
-This plugin is an easy yet powerful way to review content easily. If you're a blogger, you probably occasionally review or rank products, services, tools, recipes, or other content on your site. This plugin is a customizable and lightweight way to create reviews, using stars, percentage or point rating, and it includes support for WPMU, Google snippets and custom CSS. Just install it and follow the simple configuration instructions to place it in your desired location.
+This plugin is an easy yet powerful way to review content easily. If you're a blogger, you probably occasionally review or rank products, services, tools, recipes, or other content on your site. This plugin is a customizable and lightweight way to create reviews, using stars, percentage or point rating, and it includes support for translation, WPMU, Google snippets and unlimited colors. Just install it and follow the simple configuration instructions to place it in your desired location.
+
+= Try it out! =
+See WP Review in action on our demo pages:
+<a href="http://demo.mythemeshop.com/point/fatebuntur-stoici-haec-omnia-dicta-esse-praeclare/" target="_blank">Star Review Type</a>,
+<a href="http://demo.mythemeshop.com/point/modo-etiam-paulum-ad-dexteram-de-via-declinavi/" target="_blank">Point Review Type</a>,
+<a href="http://demo.mythemeshop.com/point/sed-nonne-merninisti-licere-mihi-ista-probare/" target="_blank">Percentage Review Type</a>
 
 = Highlighted Features: =
 WP Multisite and Multiuser (WPMU / WPMS / WordPress MU) compatible.
@@ -27,12 +33,6 @@ Minimalist, lightweight, and efficient code means that your users won’t notice
 Translation Ready.
 Stars, percentage and point rating system.
 Position it above or below the content with ease and no coding.
-
-= Try it out! =
-See WP Review in action on our demo pages:
-<a href="http://demo.mythemeshop.com/point/fatebuntur-stoici-haec-omnia-dicta-esse-praeclare/" target="_blank">Star Review Type</a>,
-<a href="http://demo.mythemeshop.com/point/modo-etiam-paulum-ad-dexteram-de-via-declinavi/" target="_blank">Point Review Type</a>,
-<a href="http://demo.mythemeshop.com/point/sed-nonne-merninisti-licere-mihi-ista-probare/" target="_blank">Percentage Review Type</a>
 
 If you've used it on your site, we'll happily feature it on MyThemeShop.com!
 
