@@ -18,12 +18,12 @@ Did you always want to increase the user interaction on your website by rating p
 
 = Live Demos =
 <blockquote>See WP Review in action on our demo pages:
-<a href="http://demo.mythemeshop.com/spike-gaming/2014/03/12/the-12-most-inspirational-female-characters-in-games/" target="_blank">Star Review Type</a>,
-<a href="http://demo.mythemeshop.com/spike-wedding/2014/03/13/top-10-wedding-guest-complaints/" target="_blank">Point Review Type</a>,
-<a href="http://demo.mythemeshop.com/spike-health/2014/02/27/high-calorie-foods-you-should-never-eat-before-going-to-bed/" target="_blank">Percentage Review Type</a></blockquote>
+* <a href="http://demo.mythemeshop.com/spike-gaming/2014/03/12/the-12-most-inspirational-female-characters-in-games/" target="_blank">Star Review Type</a>
+* <a href="http://demo.mythemeshop.com/spike-wedding/2014/03/13/top-10-wedding-guest-complaints/" target="_blank">Point Review Type</a>
+* <a href="http://demo.mythemeshop.com/spike-health/2014/02/27/high-calorie-foods-you-should-never-eat-before-going-to-bed/" target="_blank">Percentage Review Type</a></blockquote>
 
 = Why WP Review from <a href="http://mythemeshop.com">MyThemeShop</a>: =
-* Fastest review plugin.
+<blockquote>* Fastest review plugin.
 * Stars, percentage and point rating system.
 * Supports Google Rich Snippets(schema.org)
 * 100% Fluid Responsive.
@@ -38,11 +38,13 @@ Did you always want to increase the user interaction on your website by rating p
 * Support for adding your own custom fields.
 * Minimalist, lightweight, and efficient code means that your users won’t notice any hiccups.
 * Position it above or below the content with ease and no coding.
-* Supports Shortcode `[wp-review]` to show review anywhere in post.
+* Supports Shortcode `[wp-review]` to show review anywhere in post.</blockquote>
 
 = Support =
 We will do our best to provide support through the WordPress forums. However, all plugin support is provided in our forum. If you have not registered yet, you can do so here: <a href="https://mythemeshop.com/go/signup/index/c/free">https://mythemeshop.com/go/signup/index/c/free</a>. After searching the knowledge base and forum if you are still stuck, feel free to open a new thread, and a member of our support team will be happy to help. Cheers!<br>
 Support link: <a href="http://community.mythemeshop.com/forum/free/plugin-support">http://community.mythemeshop.com/forum/free/plugin-support</a>
+
+<img src="https://ps.w.org/wp-review/assets/screenshot-3.png?rev=878014">
 
 = Developer Zone =
 Yes, this plugin is so developer friendly, so you could use it with any theme you develop. Define default CSS, custom position, one line integration in your theme's code.
