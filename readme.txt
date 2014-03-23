@@ -52,7 +52,7 @@ Yes, this plugin is so developer friendly, so you could use it with any theme yo
 Show average review in your theme using below function:
 `<?php if (function_exists('wp_review_show_total')) wp_review_show_total(); ?>`
 
-You can find full list of the available filters here <a href="" target="_blank"></a>, a theme developer can decide to set fixed colors for the reviews, and hide selected (or all) color fields in the metabox, to keep it simple for the end user.
+You can find full list of the available filters here <a href="https://github.com/MyThemeShop/WP-Review-by-MyThemeShop/blob/master/filter-list.php" target="_blank">https://github.com/MyThemeShop/WP-Review-by-MyThemeShop/blob/master/filter-list.php</a>, a theme developer can decide to set fixed colors for the reviews, and hide selected (or all) color fields in the metabox, to keep it simple for the end user.
 
 GitHub link: <a href="https://github.com/MyThemeShop/WP-Review-by-MyThemeShop">https://github.com/MyThemeShop/WP-Review-by-MyThemeShop</a>
 
