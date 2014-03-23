@@ -18,7 +18,7 @@ Did you always want to increase the user interaction on your website by rating p
 
 = Live Demos =
 See WP Review in action on our demo pages:
-* <a href="http://demo.mythemeshop.com/spike-gaming/2014/03/12/the-12-most-inspirational-female-characters-in-games/" target="_blank">Star Review Type</a>
+* <a href="http://demo.mythemeshop.com/spike-gaming/the-12-most-inspirational-female-characters-in-games/" target="_blank">Star Review Type</a>
 * <a href="http://demo.mythemeshop.com/spike-wedding/2014/03/13/top-10-wedding-guest-complaints/" target="_blank">Point Review Type</a>
 * <a href="http://demo.mythemeshop.com/spike-health/2014/02/27/high-calorie-foods-you-should-never-eat-before-going-to-bed/" target="_blank">Percentage Review Type</a>
 
