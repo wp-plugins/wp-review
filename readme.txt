@@ -4,7 +4,7 @@ Creator's website link: http://mythemeshop.com/
 Tags: review, wp review, rating, wp rating, user rating, google rating, star rating, product review
 Requires at least: 3.0.1
 Tested up to: 3.9
-Stable tag: 3.1
+Stable tag: 3.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -18,7 +18,7 @@ Did you always want to increase the user interaction on your website by rating p
 
 = Live Demos =
 See WP Review in action on our demo pages:
-* <a href="http://demo.mythemeshop.com/spike-gaming/2014/03/12/the-12-most-inspirational-female-characters-in-games/" target="_blank">Star Review Type</a>
+* <a href="http://demo.mythemeshop.com/spike-gaming/the-12-most-inspirational-female-characters-in-games/" target="_blank">Star Review Type</a>
 * <a href="http://demo.mythemeshop.com/spike-wedding/2014/03/13/top-10-wedding-guest-complaints/" target="_blank">Point Review Type</a>
 * <a href="http://demo.mythemeshop.com/spike-health/2014/02/27/high-calorie-foods-you-should-never-eat-before-going-to-bed/" target="_blank">Percentage Review Type</a>
 
@@ -52,7 +52,7 @@ Yes, this plugin is so developer friendly, so you could use it with any theme yo
 Show average review in your theme using below function:
 `<?php if (function_exists('wp_review_show_total')) wp_review_show_total(); ?>`
 
-You can find full list of the available filters here <a href="" target="_blank"></a>, a theme developer can decide to set fixed colors for the reviews, and hide selected (or all) color fields in the metabox, to keep it simple for the end user.
+You can find full list of the available filters here <a href="https://github.com/MyThemeShop/WP-Review-by-MyThemeShop/blob/master/filter-list.php" target="_blank">https://github.com/MyThemeShop/WP-Review-by-MyThemeShop/blob/master/filter-list.php</a>, a theme developer can decide to set fixed colors for the reviews, and hide selected (or all) color fields in the metabox, to keep it simple for the end user.
 
 GitHub link: <a href="https://github.com/MyThemeShop/WP-Review-by-MyThemeShop">https://github.com/MyThemeShop/WP-Review-by-MyThemeShop</a>
 
