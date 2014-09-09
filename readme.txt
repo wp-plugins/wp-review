@@ -4,7 +4,7 @@ Creator's website link: http://mythemeshop.com/
 Tags: review, wp review, rating, wp rating, user rating, google rating, star rating, product review
 Requires at least: 3.0.1
 Tested up to: 3.9
-Stable tag: 3.1
+Stable tag: 3.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -75,13 +75,13 @@ This section describes how to install the plugin and get it working.
 Please disable all plugins and check if rating is working properly. Then you can enable all plugins one by one to find out which plugin is conflicting with WP Rating plugin.
 
 == Screenshots ==
-
-1. Plugin Options
-2. Plugin Options 2
-3. Review Widget
-4. Star Review type
-5. Point Review type
-6. Percentage Review type
+1. Options Panel
+2. Plugin Options
+3. Plugin Options 2
+4. Review Widget
+5. Star Review type
+6. Point Review type
+7. Percentage Review type
 
 == Changelog ==
 
