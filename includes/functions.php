@@ -392,10 +392,6 @@ function wp_review_show_total($echo = true, $class = 'review-total-only') {
     	}
     								
         $review .= '</div>';
-
-        $review .= '<style type="text/css">';
-        	$review .= '.wp-review-total-'.$post->ID.' i, .wp-review-total-'.$post->ID.' .review-total-box { color: '.$colors['color'].' }';
-        $review .= '</style>';
     }
     
     $review = apply_filters('wp_review_show_total', $review, $post->ID, $type, $total);

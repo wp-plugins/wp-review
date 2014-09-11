@@ -83,7 +83,6 @@
 .review-type-circle.latestPost-review-wrapper, .review-type-circle.wp-review-on-thumbnail { height: 35px ; background: #fff;}
 .latestPost-review-wrapper .wp-review-circle-rating, .wp-review-on-thumbnail .wp-review-circle-rating { font-size: 11px !important; }
 .review-type-circle.review-total-only, .review-type-circle.wp-review-show-total { padding-top: 6px; }
-.latestPost-review-wrapper i, .latestPost-review-wrapper span { color: #FFF!important; }
 /**
  * Font icon
  */
